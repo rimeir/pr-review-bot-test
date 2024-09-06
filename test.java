@@ -18,5 +18,6 @@ public class Main {
             stack.clear();
         }
         System.out.print(answer);
+        
     }
 }
